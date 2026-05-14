@@ -18,6 +18,14 @@ The Lens hood has been remixed from here
 
 https://www.thingiverse.com/thing:2078788
 
+Edit:2026/05/14
+
+Made ver 2 witch is more reliable
+
+https://www.thingiverse.com/thing:7352979
+
+<img width="619" height="411" alt="Screenshot_20260514_221434-1" src="https://github.com/user-attachments/assets/16cd823d-f74e-408a-9b77-463615d8ea27" />
+
 First attach the metal ring to the camera lens.
 
 <img width="4672" height="3504" alt="IMG_20260510_195655" src="https://github.com/user-attachments/assets/a0485768-7ad4-4c70-bb13-5bd2bd0336c5" />
@@ -34,10 +42,4 @@ Now attatch the lens hood and use it.
 
 Planning on expending the accessory range.
 
-Edit:2026/05/14
 
-Made ver 2 witch is more reliable
-
-https://www.thingiverse.com/thing:7352979
-
-<img width="619" height="411" alt="Screenshot_20260514_221434-1" src="https://github.com/user-attachments/assets/16cd823d-f74e-408a-9b77-463615d8ea27" />
