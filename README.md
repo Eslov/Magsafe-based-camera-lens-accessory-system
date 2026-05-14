@@ -33,3 +33,9 @@ Now attatch the lens hood and use it.
 <img width="4672" height="3504" alt="IMG_20260510_202705" src="https://github.com/user-attachments/assets/b5c0b5d1-e4b5-468d-882f-fc4b1172e101" />
 
 Planning on expending the accessory range.
+
+Edit:2026/05/14
+
+Made ver 2 witch is more reliable
+
+https://www.thingiverse.com/thing:7352979
