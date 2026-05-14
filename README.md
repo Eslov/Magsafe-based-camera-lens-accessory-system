@@ -39,3 +39,5 @@ Edit:2026/05/14
 Made ver 2 witch is more reliable
 
 https://www.thingiverse.com/thing:7352979
+
+<img width="619" height="411" alt="Screenshot_20260514_221434-1" src="https://github.com/user-attachments/assets/16cd823d-f74e-408a-9b77-463615d8ea27" />
